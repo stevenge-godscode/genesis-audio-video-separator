@@ -1,0 +1,7 @@
+[project]
+name = "genesis-audio-video-separator"
+version = "0.1.0"
+description = "Genesis audio-video-separator component"
+dependencies = [
+    "genesis-base",
+]
